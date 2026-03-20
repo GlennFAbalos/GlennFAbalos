@@ -12,7 +12,6 @@ I'm a **Full Stack Developer** who loves building **real-world web applications*
     <td>
       <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black"/>
       <img src="https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs"/>
-      <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
       <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white"/>
       <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss"/>
