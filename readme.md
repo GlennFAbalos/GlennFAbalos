@@ -65,7 +65,7 @@ I'm currently focused on:
   </a>
 
   <a href="https://www.facebook.com/glen.abalos.5" target="_blank" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
   </a>
   
   <a href="mailto:f.glenn.abalos@gmail.com" style="text-decoration:none">
