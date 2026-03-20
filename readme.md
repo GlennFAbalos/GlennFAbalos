@@ -17,7 +17,7 @@ I'm a **Full Stack Developer** who loves building **real-world web applications*
       <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss"/>
       <img src="https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=white" />
     </td>
   </tr>
   <tr>
