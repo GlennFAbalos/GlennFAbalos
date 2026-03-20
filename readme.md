@@ -60,7 +60,7 @@ I'm currently focused on:
 ### 📫 Let’s Connect
 
 <p>
-  <a href="ttps://www.linkedin.com/in/glenn-abalos/" target="_blank" style="text-decoration:none">
+  <a href="https://www.linkedin.com/in/glenn-abalos/" target="_blank" style="text-decoration:none">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=invision&logoColor=white"/>
   </a>
 
